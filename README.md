@@ -125,7 +125,7 @@
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/<your gitHub Username>/XPLOADER-BOT.git
+git https://github.com/Cytrak/XPLOADER-BOT
 cd XPLOADER-BOT
 npm start
 ```
@@ -141,7 +141,7 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/XPLOADER-BOT
+git clone https://github.com/Cytrak/XPLOADER-BOT
 cd XPLOADER-BOT
 npm install
 npm start
